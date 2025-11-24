@@ -30,7 +30,7 @@ Atualmente, sou estagiário na Embraer, onde desenvolvo e aplico habilidades té
 
 
 ## FATEC: Projetos Integradores
-Projetos em grupo desenvolvidos durante o Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC (2021.2 - 2024.1)
+Projetos em grupo desenvolvidos durante o Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC (2024.2 - 2025.2)
 
 <span id="topo">
 <p align="center">
