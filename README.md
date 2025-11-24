@@ -1,136 +1,261 @@
-# Apresentação Profissional
-Sou um jovem profissional da área de Tecnologia da Informação, atualmente no terceiro semestre do curso de Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos. Tenho 19 anos e um histórico de experiências e habilidades que me tornam apto a contribuir de forma significativa em projetos de TI.
+# Portfólio - Emmanuel Jun de Noronha Yokoyama
 
-# Experiência Acadêmica e Profissional
-Atualmente, sou estagiário na Embraer, onde desenvolvo e aplico habilidades técnicas e de soft skills. No meu estágio, tenho aprimorado meu conhecimento em Java com SpringBoot, estruturas de dados, análise de dados, PowerBI, automações com python e banco de dados. Também utilizo serviços da AWS, como SQS, EC2, Lambda e S3 ,fortalecendo meu conhecimento em soluções em nuvem.
+<img align="right" src="https://avatars.githubusercontent.com/u/110994450?v=4" alt="" width="250"/>
 
-# Habilidades Técnicas
-- **Linguagens de Programação:** Java (intermediário), Python (avançado), PHP, TypeScript  
-- **Banco de Dados:** SQL, MySQL — criação, gerenciamento e otimização de bases de dados  
-- **Frameworks e Ferramentas:** Spring, J2EE, Jenkins, RSpec, Jira, N8N  
-- **Serviços de Nuvem e DevOps:** AWS (deploy de aplicações), Docker, GitFlow (Bitbucket)  
-- **BI e Automação:** Pentaho, Power BI — relatórios e dashboards  
-- **Versionamento:** Git e Bitbucket  
+Estudante do 3º Semestre de Desenvolvimento de Software Multiplataforma na *Fatec São José dos Campos - Prof. Jessen Vidal*. <br>
+Sempre tive interesse pela área de tecnologia, inicialmente através da influência familiar, por ter parentes da área. Foi durante a infância que tive meu primeiro contato com programação ao desenvolver modpacks para o jogo Minecraft. Era um desenvolvimento de funcionalidades básicas e de complexidade baixa. No ensino médio, me matriculei em um ensino concomitante ao técnico em informática, que me deu a minha base principal e foi onde eu decidi que seria a minha carreira. E assim que me formei, conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade para evoluir, desenvolver minhas habilidades técnicas e crescer profissionalmente. <br>
 
-# Soft Skills
-- **Iniciativa:** Capacidade de propor soluções e melhorias em projetos  
-- **Tomada de decisão:** Experiência em avaliar alternativas técnicas e escolher a mais eficiente  
-- **Proatividade:** Antecipação de necessidades e execução de tarefas sem depender de solicitações externas  
+Meus principais ganhos em hard skill e soft skills foram através das APIs (Aprendizagem por Projetos Integrados) desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas e pensamento crítico. Nesse período, tive a oportunidade de aprender, aplicar e aprimorar meu conhecimento em diversas tecnologias, como Python junto ao Flask, JavaScript, TypeScript, Docker, serviços Cloud, Java com Spring Boot, React, MySQL, MongoDB, gerenciamento de projetos com Jira e outros, seja em projetos acadêmicos quanto em projetos pessoais. 
+Além das competências técnicas, desenvolvi habilidades interpessoais e experiência com metodologias ágeis, atuando como desenvolvedor no time de desenvolvimento e como Product Owner.
+<br>
 
-# Habilidades Desenvolvidas no Estágio
-- **Backend Development:** Desenvolvimento de microsserviços em Java e PHP, integração de sistemas internos  
-- **Automação:** Criação de pipelines e automações com Python, Pentaho e N8N  
-- **Banco de Dados:** Suporte a DBA, correção de inconsistências e otimização de consultas SQL  
-- **DevOps:** Deploy de aplicações com AWS e Docker, controle de versões com GitFlow  
-- **Data Analytics:** Construção de KPIs e dashboards com Power BI  
+## Contatos
 
-# Competências em Idiomas
-- **Inglês:** Avançado  
-- **Espanhol:** Básico  
-
-
-## FATEC: Projetos Integradores
-Projetos em grupo desenvolvidos durante o Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC (2024.2 - 2025.2)
-
-<span id="topo">
-<p align="center">
-    <a href="#1semestre">Primeiro Semestre</a> |  
-    <a href="#2semestre">Segundo Semestre</a> | 
-    <a href="#3semestre">Terceiro Semestre</a> | 
+<p>
+  <a href="https://github.com/EmmanuelJYokoyama"> <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white&color=2196de"></img></a>
+  <a href="https://www.instagram.com/emmanuel.yokoyama"> <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white&color=2196de"></img></a>
+  <a href="mailto:emmanuelnoronha2@gmail.com"> <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white&color=2196de"></img></a>
+  <a href="https://www.linkedin.com/in/emmanuelyokoyama"> <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white&color=2196de"></img></a>
 </p>
 
-<span id="1semestre">
+<br>
 
-### Primeiro Semestre em 2024/2.
+## Meus Principais Conhecimentos
 
-**Projeto 1: Acompanhamento do Desempenho dos Vereadores em Exercício da FATEC São José dos Campos**
+<div align='left'>
+    <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo" />
+    <img width="4" />
+  <img src="https://skillicons.dev/icons?i=php" />
+            <img src="https://skillicons.dev/icons?i=js" />
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+            <img src="https://skillicons.dev/icons?i=kotlin" />
+            <img src="https://skillicons.dev/icons?i=python" />
+            <img src="https://skillicons.dev/icons?i=docker" />
+            <img src="https://skillicons.dev/icons?i=cs" />
+            <img src="https://skillicons.dev/icons?i=laravel" />
+            <img src="https://skillicons.dev/icons?i=aws" />
+            <img src="https://skillicons.dev/icons?i=flask" />
+            <img src="https://skillicons.dev/icons?i=ts" />
+            <img src="https://skillicons.dev/icons?i=mysql" />
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+            <img src="https://skillicons.dev/icons?i=git" />
+            <img src="https://skillicons.dev/icons?i=c" />
+            <img src="https://skillicons.dev/icons?i=dotnet" />
+            <img src="https://skillicons.dev/icons?i=sqlite" />
+            <img src="https://skillicons.dev/icons?i=rails" />
+            <img src="https://skillicons.dev/icons?i=tailwind" />
+            <img src="https://skillicons.dev/icons?i=css" />
+            <img src="https://skillicons.dev/icons?i=html" />
+            <img src="https://skillicons.dev/icons?i=postman" />
+            <img src="https://skillicons.dev/icons?i=figma" />
+            <img src="https://skillicons.dev/icons?i=sass" />
+            <img src="https://skillicons.dev/icons?i=sequelize" />
+            <img src="https://skillicons.dev/icons?i=visualstudio" />
+            <img src="https://skillicons.dev/icons?i=bitbucket" />
+            <img src="https://skillicons.dev/icons?i=eclipse" />
+            <img src="https://skillicons.dev/icons?i=react" />
+            <img src="https://skillicons.dev/icons?i=figma" />
+            <img height="48" width="48" id="n8n" src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" />
+            <img height="48" width="48"
+              src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'>
+    
+</div>
 
-* **Objetivo:** Criar uma plataforma web que disponibilize informações sobre o desempenho dos vereadores da cidade durante o atual mandato. As informações estão disponibilizadas no site da prefeitura de São José dos Campos. O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tomar decisões informadas nas eleições municipais que se aproximavam. Meu papel durante todo o desenvolvimento foi na atuação como PO (Product Owner) e principalmente no desenvolvimento do backend, auxiliando meus colegas que possuem menos experiência, revisando os códigos e implementando padrões de CI&CD durante o desenvolvimento da aplicação..
+<br>
 
-**Tecnologias Utilizadas:**
+## Meus Projetos
 
-* Python
-* Flask
-* Mysql
+<details>
+  <summary><strong>API-FATEC | 2024-2 (1º Semestre)</strong></summary>
 
+### API-FATEC | 2024-2 (1º Semestre)
 
-**Sprint 1**
-- Análise e requerimento de requisitos;
-- Criação do protótipo;
-- Criação das telas principais do sistema;
-- Configuração do ambiente geral.
+> **Status do Projeto: Concluído**
 
-**Sprint 2** 
-- Aplicação de responsividade às telas;
-- Implementação de mais informações nas telas;
-- Realização da raspagem de dados;
-- Criação e configuração do banco de dados;
-- Implementação de filtros e gráficos funcionais.
+O projeto foi proposto pelo Professor *Fernando Masanori*. <br>
+A proposta era desenvolver uma plataforma web que disponibiliza informações sobre o desempenho dos vereadores da cidade de São José dos Campos durante o atual mandato. 
+O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tomar decisões informadas nas eleições municipais. A plataforma permitirá que os cidadãos visualizem a atuação dos vereadores.
 
-**Sprint 3** 
-- Implementação de funcionalidades do sistema (barra de busca, comentários);
-- Reajustes e alguns aperfeiçoamentos;
-- Criação de toda documentação necessária do projeto;
-- Deploy do Banco de Dados no RDS da AWS.
-
-O projeto entregou uma plataforma responsiva e completa sobre todos os vereadores em exercício no momento de eleição, trazendo as votações, PLs e posicionamentos em assuntos importantes.
-
-* **Repositório:** https://github.com/Draco-Imperium/API_FATEC1
-  
----
-
-<span id="2semestre">
-
-### Segundo Semestre em 2025/1
-
-**Projeto 2: Dashboard de Indicadores para a Helpnei**
-
-* **Objetivo:** Desenvolver um **Dashboard de Indicadores** para monitorar e visualizar o impacto da plataforma GeneSys, facilitando o acompanhamento do crescimento do projeto e oferecendo dados estratégicos e detalhados para patrocinadores e stakeholders. O sistema deve permitir a análise de métricas como número de lojas criadas, usuários impactados, volume de transações e distribuição geográfica, além de engajamento e retenção de usuários.
-
-**Tecnologias Utilizadas:**
-- TypeScript  
-- SCSS  
-- CSS  
-- HTML  
-
-**Sprints**
-- **Sprint 1:** Desenvolvimento inicial da interface e cadastro de dados das empresas.  
-- **Sprint 2:** Implementação de métricas de engajamento e distribuição geográfica.  
-- **Sprint 3:** Integração de indicadores de transações e usuários impactados.  
-
-Ao longo das sprints, foram criadas **user stories** específicas para patrocinadores e administradores, garantindo que o dashboard fosse **intuitivo, responsivo e moderno**, atendendo às necessidades de visualização estratégica.
-
-* **Repositório:** https://github.com/GeneSys-fatec/API-2DSM  
-
-→ [Voltar ao topo](#topo)
-
----
-
-<span id="3semestre">
-
-### Terceiro Semestre em 2025/2
-
-**Projeto 3: Sistema de Gerenciamento de Tarefas (Task Manager) para a Empresa GSW**
-
-* **Objetivo:** Desenvolver um **Sistema de Gerenciamento de Tarefas (To-Do/Task Manager)** para organizar, acompanhar e otimizar as atividades da empresa GSW. A plataforma permite criação, edição e exclusão de tarefas, atribuição de responsáveis, definição de prazos, categorização por projetos e visualização de progresso. Também contempla upload de anexos, colaboração em equipe com atualização em tempo real e notificações.
-
-**Tecnologias Utilizadas:**
-- TypeScript  
-- Java  
-- React (SPA)  
-- Spring Boot  
-- MongoDB  
-- HTML5 / CSS3  
-
-**Sprints**
-- **Sprint 1:** Cadastro de usuários, login seguro, criação e exclusão de tarefas, upload de anexos.  
-- **Sprint 2:** Criação de equipes, atribuição de tarefas, comentários e notificações em tempo real.  
-- **Sprint 3:** Refinamento da interface, otimização da colaboração e documentação final.  
-
-O sistema foi desenvolvido com **arquitetura baseada em microserviços** e banco de dados NoSQL, garantindo escalabilidade e flexibilidade. A comunicação constante com os stakeholders e a adaptação do backlog foram fundamentais para entregar um MVP funcional e alinhado às necessidades da empresa.
-
-* **Repositório:** https://github.com/GeneSys-fatec/API-3DSM  
+<a href="https://github.com/Draco-Imperium/API_FATEC1">
+  <img src="https://img.shields.io/badge/Repositório-6e44ff?style=for-the-badge&logo=github&logoColor=white&color=2196de" />
+</a>
+<a href="https://youtu.be/NQjO5y1g220">
+  <img src="https://img.shields.io/badge/Vídeo%20Projeto-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 ---
 
-→ [Voltar ao topo](#topo)
+
+#### Contribuições Pessoais
+
+- Estruturação e desenvolvimento das principais funcionalidades no backend.
+- Atuação proativa na implementação do consumo das informações da API, trazendo dados mais confiáveis e em tempo real.
+- Desenvolvimento completo da seção de comentários.
+- Deploy do banco de dados da aplicação no RDS da AWS.
+- Deploy da aplicação no EC2 do AWS
+
+
+#### Tecnologias Utilizadas
+
+![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
+#### Hard Skills Desenvolvidas
+ 
+- Figma/HTML5/CSS3/MySQL/Python (Flask): Realizo com autonomia.
+
+
+#### Soft Skills Desenvolvidas
+
+> Proatividade: Dado à complexidade que seria fazer o WebScraping das informações da prefeitura, como PO, negociei com o cliente sobre a possibilidade da negociação de uma API com a prefeitura e os desenvolvedores da aplicação que tinhamos como base, após isso repassei a informação aos integrantes do time de desenvolvimento e fomos à Câmara Municipal buscar uma solução oficial. Essa atitude resultou na conquista de uma API dedicada, eliminando a necessidade de retrabalho, garantindo a estabilidade do projeto.
+
+> Comunicação: Atuei diretamente como Product Owner, compreendendo a dor do cliente, obtendo informações e repassando ao DevTeam em forma de tasks e User Stories, garantindo um desenvolvimento mais claro, objetivo e que atenda as necessidades e as dores desse cliente.
+
+> Trabalho em Equipe: Além de desenvolver minhas entregas e a negociação, atuei no auxilio de outros membros da equipe na integração da nova API em suas respectivas páginas, auxiliando no aprendizado dos mesmos e sanando as dúvidas que surgiam.
+
+<br> 
+
+</details>
+
+<details>
+  <summary><strong>API-FATEC | 2025-1 (2º Semestre)</strong></summary>
+
+### 💡 API-FATEC | 2025-1 (2º Semestre)
+
+> **Status do Projeto: Concluído**
+
+O projeto foi proposto pela empresa **Helpnei**. <br>
+O **Helpnei** é uma plataforma voltada para profissionais de venda direta, oferecendo ferramentas de gestão de links de afiliados, facilitando a promoção e comercialização de produtos de grandes marcas. Além disso, permite a criação de lojas próprias, o trabalho com afiliação e a venda de produtos dentro de comunidades, promovendo oportunidades de geração de renda extra.<br>
+A dificuldade do Helpnei era de oferecer às empresas parceiras acesso a indicadores que mostrem, de forma transparente, seus resultados e impacto na plataforma.
+A partir disso, a solução desenvolvida consiste em um Dashboard de Indicadores de Crescimento para as empresas cadastradas e um sistema de captação de usuários externos relacionados. <br>
+O Dashboard permite monitorar o impacto da plataforma e acompanhar o crescimento das empresas, exibindo dados estratégicos para patrocinadores e investidores. <br>
+O painel inclui métricas essenciais, como:
+* Número de Lojas Criadas;
+* Usuários Impactados;
+* Quantidade de Patrocinados;
+* Distribuição Geográfica (Cidades Atendidas). <br>
+
+Era também um requisito um sistema de cadastramento de dados para usuários que desejam escolher por qual empresa cadastrada gostaria de ser patrocinado, redirecionando-o para empresas que mais combinam com seu perfil.
+
+<a href="https://github.com/GeneSys-fatec/API-2DSM">
+  <img src="https://img.shields.io/badge/Repositório-6e44ff?style=for-the-badge&logo=github&logoColor=white&color=2196de" />
+</a>
+<a href="https://www.youtube.com/watch?v=0kPp-YthV4Y">
+  <img src="https://img.shields.io/badge/Vídeo%20Projeto-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+---
+
+
+#### Contribuições Pessoais
+
+Como desenvolvedor do projeto, fui responsável por integrar e aplicar as demandas que chegavam do PO para o time de desenvolvimento, além de estruturar nosso projeto, definindo um padrão de MVC para o backend e adicionar segurança à nossa aplicação.
+
+- Desenvolvi a lógica de Middleware para as rotas da aplicação.
+- Implementei JWT para o login dos usuários.
+- Desenvolimento do CRUD dos usuários e a validação dos mesmos no backend.
+- Criação de uma navbar dinâmica baseado na empresa patrocinadora.
+
+#### Tecnologias Utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+
+
+#### Hard Skills Desenvolvidas
+ 
+- JavaScript/TypeScript/MySQL/Git/Figma/HTML5/CSS3/React: Realizo com autonomia.
+
+#### Soft Skills Desenvolvidas
+
+> Comunicação Técnica: Mantive comunicação clara e objetiva com o PO e com o time de desenvolvimento para garantir que as demandas fossem corretamente entendidas, priorizadas e implementadas. Esse alinhamento reduziu retrabalho e facilitou a evolução do projeto.
+
+> Trabalho em Equipe: Colaborei constantemente com outros desenvolvedores na integração das funcionalidades, padronização da arquitetura MVC e revisão de código, garantindo consistência e qualidade no backend e no frontend.
+
+> Empatia e Colaboração: Demonstrando escuta ativa, compreendi as dificuldades dos membros do time e os apoiei na resolução de problemas técnicos, criando um ambiente cooperativo e produtivo.
+
+> Pensamento Crítico: Apliquei análise lógica e tomada de decisão em pontos-chave do desenvolvimento, como implementação do JWT, criação dos middlewares, estruturação da arquitetura e ajustes na navegação dinâmica, sempre considerando segurança, escalabilidade e boa prática de código.
+
+<br>
+
+</details>
+
+<details>
+  <summary><strong>API-FATEC | 2025-2 (3º Semestre)</strong></summary>
+
+### 💡 API-FATEC | 2025-2 (3º Semestre)
+
+> **Status do Projeto: Concluído**
+
+O projeto foi proposto pela empresa **GSW**. <br>
+A **GSW** enfrenta dificuldades no acompanhamento de tarefas, causando falhas de comunicação e atrasos nas entregas. <br>
+O gerenciador de tarefas foi desenvolvido para resolver esses problemas, oferecendo uma plataforma unificada que permite saber o que precisa ser feito, por quem e quando.
+O sistema possui as seguintes funcionalidades principais:
+
+- Criação, edição e exclusão de tarefas;
+- Atribuição de tarefas a usuários específicos;
+- Upload de anexos relacionados a cada tarefa;
+- Colaboração em equipe com atualizações em tempo real.
+
+<a href="https://github.com/GeneSys-fatec/API-3DSM">
+  <img src="https://img.shields.io/badge/Repositório-6e44ff?style=for-the-badge&logo=github&logoColor=white&color=2196de" />
+</a>
+<a href="https://www.youtube.com/watch?v=mlh4uSfiOS8">
+  <img src="https://img.shields.io/badge/Vídeo%20Projeto-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+---
+
+
+#### Contribuições Pessoais
+
+
+Durante o desenvolvimento, fui responsável por desenvolver funcionalidades essenciais de gerenciamento de tarefas e pela reestruturação do Back-end, garantindo tanto a qualidade do código quanto a eficiência da arquitetura:
+
+- *Modelagem e criação do banco de dados não relacional* utilizando *MongoDB*.
+- Integração com a API do GoogleCalendar, para sincronização de tarefas com os dias correspondentes.
+- Implementação dos projetos por equipe integrado ao usuário.
+- Implementação de  na aba de comentários.
+- Elaboração da **documentação de APIs** utilizando **Swagger**.
+- Atuação na migração da arquitetura do sistema, transformando o **Back-end monolítico em microsserviços**.
+
+Essas atividades me permitiram aprofundar meus conhecimentos em **arquitetura de software** e **bancos de dados NoSQL (MongoDB)**, além de reforçar o domínio em **Java (Spring Boot)** e **boas práticas de documentação com Swagger**. A experiência consolidou minha visão **Full-Stack**, unindo a capacidade de entregar interfaces funcionais à habilidade de construir um Back-end robusto e escalável em microsserviços.
+
+
+#### Tecnologias Utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Swagger](https://img.shields.io/badge/Swagger-696969?style=for-the-badge&logo=swagger&logoColor=figma) 
+
+
+#### Hard Skills Desenvolvidas
+ 
+- TypeScript/React/MongoDB: Realizo com auxílio.
+- Git/Jira/Figma/HTML5/CSS3/JavaScript/Java/SpringBoot: Realizo com autonomia.
+
+#### Soft Skills Desenvolvidas
+
+> Aprendizagem Contínua: Para atender à evolução do projeto, aprofundei-me rapidamente no ecossistema Spring Boot e em bancos NoSQL, transformando teoria em prática. Essa busca constante por conhecimento foi decisiva para superar barreiras técnicas e elevar o nível das soluções implementadas.
+
+> Adaptabilidade: Adaptei meu fluxo de trabalho ao sair de bancos relacionais para MongoDB, e atuei na transição complexa de uma arquitetura monolítica para microsserviços, garantindo entregas contínuas mesmo diante de mudanças estruturais no projeto.
+
+> Proatividade: Liderei a migração do sistema para microsserviços e a refatoração para arquitetura em camadas, visando escalabilidade. Além disso, atuei na segurança da aplicação, auxiliando na implementação do JWT para garantir uma autenticação robusta e confiável.
+
+<br>
+
+</details>
