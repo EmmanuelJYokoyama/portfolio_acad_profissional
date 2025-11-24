@@ -5,7 +5,7 @@ Sou um jovem profissional da área de Tecnologia da Informação, atualmente no 
 Atualmente, sou estagiário na Embraer, onde desenvolvo e aplico habilidades técnicas e de soft skills. No meu estágio, tenho aprimorado meu conhecimento em Java com SpringBoot, estruturas de dados, análise de dados, PowerBI, automações com python e banco de dados. Também utilizo serviços da AWS, como SQS, EC2, Lambda e S3 ,fortalecendo meu conhecimento em soluções em nuvem.
 
 # Habilidades Técnicas
-- **Linguagens de Programação:** Java (avançado), Python (avançado), PHP, TypeScript  
+- **Linguagens de Programação:** Java (intermediário), Python (avançado), PHP, TypeScript  
 - **Banco de Dados:** SQL, MySQL — criação, gerenciamento e otimização de bases de dados  
 - **Frameworks e Ferramentas:** Spring, J2EE, Jenkins, RSpec, Jira, N8N  
 - **Serviços de Nuvem e DevOps:** AWS (deploy de aplicações), Docker, GitFlow (Bitbucket)  
