@@ -231,8 +231,7 @@ Durante o desenvolvimento, fui responsável por desenvolver funcionalidades esse
 - *Modelagem e criação do banco de dados não relacional* utilizando *MongoDB*.
 - Integração com a API do GoogleCalendar, para sincronização de tarefas com os dias correspondentes.
 - Implementação dos projetos por equipe integrado ao usuário.
-- Implementação de  na aba de comentários.
-- Elaboração da **documentação de APIs** utilizando **Swagger**.
+- Criação da lógica de anexo de arquivos e compactação para arquivos maiores de 2MB.
 - Atuação na migração da arquitetura do sistema, transformando o **Back-end monolítico em microsserviços**.
 
 Essas atividades me permitiram aprofundar meus conhecimentos em **arquitetura de software** e **bancos de dados NoSQL (MongoDB)**, além de reforçar o domínio em **Java (Spring Boot)** e **boas práticas de documentação com Swagger**. A experiência consolidou minha visão **Full-Stack**, unindo a capacidade de entregar interfaces funcionais à habilidade de construir um Back-end robusto e escalável em microsserviços.
@@ -245,8 +244,7 @@ Essas atividades me permitiram aprofundar meus conhecimentos em **arquitetura de
 
 #### Hard Skills Desenvolvidas
  
-- TypeScript/React/MongoDB: Realizo com auxílio.
-- Git/Jira/Figma/HTML5/CSS3/JavaScript/Java/SpringBoot: Realizo com autonomia.
+- TypeScript/React/MongoDB/Git/Jira/Figma/HTML5/CSS3/JavaScript/Java/SpringBoot: Realizo com autonomia.
 
 #### Soft Skills Desenvolvidas
 
