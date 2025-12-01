@@ -262,6 +262,8 @@ Essas atividades me permitiram aprofundar meus conhecimentos em **arquitetura de
 
 > Inteligência Emocional e Resiliência: Diante de dificuldades internas e conflitos derivados da mistura entre relações pessoais e profissionais, com muitas falhas em processo, mantive equilíbrio e postura madura. Soube separar vínculo pessoal de responsabilidade técnica, preservando disciplina, foco nas entregas e estabilidade do grupo — o que foi essencial para conduzir o trabalho até a conclusão.
 
+#### Este semestre ampliou significativamente minha percepção sobre desenvolvimento ágil, permitindo reconhecer meus pontos de melhoria e como posso evoluir. Percebi a importância de me posicionar com mais propriedade nas atividades individuais e, ao mesmo tempo, fortalecer minhas habilidades em equipe, especialmente na comunicação. Esse processo foi essencial para aprimorar minha atuação tanto como colaborador quanto como profissional em constante crescimento.
+
 <br>
 
 </details>
