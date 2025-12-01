@@ -184,13 +184,19 @@ Como desenvolvedor do projeto, fui responsável por integrar e aplicar as demand
 
 #### Soft Skills Desenvolvidas
 
-> Comunicação Técnica: Mantive comunicação clara e objetiva com o PO e com o time de desenvolvimento para garantir que as demandas fossem corretamente entendidas, priorizadas e implementadas. Esse alinhamento reduziu retrabalho e facilitou a evolução do projeto.
+> Responsabilidade: Assumi atividades mais complexas e entreguei com rigor e constância.
 
-> Trabalho em Equipe: Colaborei constantemente com outros desenvolvedores na integração das funcionalidades, padronização da arquitetura MVC e revisão de código, garantindo consistência e qualidade no backend e no frontend.
+> Comunicação: Mantive feedbacks rápidos ao time, reduzindo pontos de dúvida e acelerando o desenvolvimento.
 
-> Empatia e Colaboração: Demonstrando escuta ativa, compreendi as dificuldades dos membros do time e os apoiei na resolução de problemas técnicos, criando um ambiente cooperativo e produtivo.
+> Colaboração: Auxiliei colegas com dificuldades técnicas e ajudei a manter o time alinhado.
 
-> Pensamento Crítico: Apliquei análise lógica e tomada de decisão em pontos-chave do desenvolvimento, como implementação do JWT, criação dos middlewares, estruturação da arquitetura e ajustes na navegação dinâmica, sempre considerando segurança, escalabilidade e boa prática de código.
+> Organização: Padronizei rotinas e contribui para uma estrutura mais clara do código e documentação.
+
+> Proatividade: Antecipei melhorias e corrigi problemas antes de impactarem a entrega.
+
+> Adaptabilidade: Respondi rapidamente a mudanças de requisito e adaptei soluções conforme novas demandas.
+
+> Pensamento Crítico: Avaliei cenários e propus abordagens mais eficientes e seguras para o projeto.
 
 <br>
 
@@ -248,11 +254,13 @@ Essas atividades me permitiram aprofundar meus conhecimentos em **arquitetura de
 
 #### Soft Skills Desenvolvidas
 
-> Aprendizagem Contínua: Para atender à evolução do projeto, aprofundei-me rapidamente no ecossistema Spring Boot e em bancos NoSQL, transformando teoria em prática. Essa busca constante por conhecimento foi decisiva para superar barreiras técnicas e elevar o nível das soluções implementadas.
+> Aprendizagem Contínua: Mantive uma postura ativa de crescimento, buscando novos conhecimentos sempre que o projeto exigia. Aprofundei rapidamente conceitos de novas tecnologias, demonstrando abertura para aprender e transformar estudo em prática mesmo sob pressão.
 
-> Adaptabilidade: Adaptei meu fluxo de trabalho ao sair de bancos relacionais para MongoDB, e atuei na transição complexa de uma arquitetura monolítica para microsserviços, garantindo entregas contínuas mesmo diante de mudanças estruturais no projeto.
+> Adaptabilidade: Ajustei meu modo de trabalho a mudanças estruturais do projeto, como a troca de tecnologias e padrões de arquitetura. Mantive estabilidade emocional e produtividade mesmo diante de transições complexas, garantindo fluidez nas entregas.
 
-> Proatividade: Liderei a migração do sistema para microsserviços e a refatoração para arquitetura em camadas, visando escalabilidade. Além disso, atuei na segurança da aplicação, auxiliando na implementação do JWT para garantir uma autenticação robusta e confiável.
+> Proatividade: Assumi iniciativas sem depender de solicitação direta, antecipando necessidades do time e do projeto. Propus melhorias, conduzi ajustes estruturais e tomei decisões que facilitaram o andamento coletivo.
+
+> Inteligência Emocional e Resiliência: Diante de dificuldades internas e conflitos derivados da mistura entre relações pessoais e profissionais, com muitas falhas em processo, mantive equilíbrio e postura madura. Soube separar vínculo pessoal de responsabilidade técnica, preservando disciplina, foco nas entregas e estabilidade do grupo — o que foi essencial para conduzir o trabalho até a conclusão.
 
 <br>
 
